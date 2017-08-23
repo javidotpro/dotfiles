@@ -1,0 +1,18 @@
+alias repos='cd ~/Repos'
+alias desktop='cd ~/Desktop'
+alias c='clear'
+alias .='pwd'
+alias ..='cd ..'
+alias ...='cd ../../'
+alias ....='cd ../../../'
+alias path='echo $PATH | tr -s ":" "\n"'
+
+alias show="defaults write com.apple.finder AppleShowAllFiles -bool true && killall Finder"
+alias hide="defaults write com.apple.finder AppleShowAllFiles -bool false && killall Finder"
+
+alias rmds="find . -type f -name '*.DS_Store' -ls -delete"
+
+alias flushdns='sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder;echo "✌️ DNS flushed"'
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+
+alias -g @="| grep -i"
