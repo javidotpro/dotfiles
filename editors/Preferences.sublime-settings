@@ -1,25 +1,17 @@
 {
-	"always_show_minimap_viewport": true,
-	"auto_complete": false,
-	"bold_folder_labels": true,
+	"theme": "ayu-mirage.sublime-theme",
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-	"enable_tab_scrolling": false,
-	"font_face": "Inconsolata for PowerLine",
-	"font_size": 16,
-	"highlight_line": true,
-	"ignored_packages":
+	"font_face": "Roboto Mono",
+    "font_size": 12,
+    "ignored_packages":
 	[
 		"Vintage"
 	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
 	"theme": "ayu-mirage.sublime-theme",
 	"ui_big_tabs": false,
 	"word_wrap": false
+
 }
