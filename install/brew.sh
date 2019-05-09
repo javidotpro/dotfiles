@@ -52,7 +52,6 @@ brew cask install --appdir="/Applications" firefox
 brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" atom
-brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" cyberduck
 brew cask install --appdir="/Applications" filezilla
