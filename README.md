@@ -39,10 +39,12 @@ macOS tools:
 * [Homebrew] for managing operating system libraries.
 
 [Homebrew]: http://brew.sh/
+[wget]: https://formulae.brew.sh/formula/wget#default
+[OpenSSL]: https://formulae.brew.sh/formula/openssl#default
 
 Tools:
 
-* [wget]: https://formulae.brew.sh/formula/wget#default package for retrieving files using HTTP, HTTPS, FTP and FTPS
+* [wget] package for retrieving files using HTTP, HTTPS, FTP and FTPS 
 * [OpenSSL] for Transport Layer Security (TLS)
 * [Git] for version control
 * [Python3] Python 3 programming lang
