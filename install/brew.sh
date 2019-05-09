@@ -1,4 +1,4 @@
-# Install Homebrew
+# Ding ding! Install Homebrew
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap homebrew/versions
@@ -35,7 +35,7 @@ brew install tree
 # One second...
 sleep 1
 
-# ...and then.
+# ... and then...
 echo "Happy Days! Basic brew packages are now installed."
 
 # Cask
@@ -49,8 +49,6 @@ brew cask install --appdir="/Applications" 1password
 brew cask install --appdir="/Applications" alfred
 brew cask install --appdir="/Applications" keka
 brew cask install --appdir="/Applications" firefox
-brew cask install --appdir="/Applications" google-chrome
-brew cask install --appdir="/Applications" opera
 brew cask install --appdir="/Applications" iterm2
 brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" atom
@@ -59,8 +57,6 @@ brew cask install --appdir="/Applications" sequel-pro
 brew cask install --appdir="/Applications" cyberduck
 brew cask install --appdir="/Applications" filezilla
 brew cask install --appdir="/Applications" spotify
-brew cask install --appdir="/Applications" skype
-
 
 # Quick Look Plugins
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook qlvideo
