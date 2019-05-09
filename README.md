@@ -41,6 +41,35 @@ macOS tools:
 [Homebrew]: http://brew.sh/
 [wget]: https://formulae.brew.sh/formula/wget#default
 [OpenSSL]: https://formulae.brew.sh/formula/openssl#default
+[Git]: https://formulae.brew.sh/formula/git#default
+[Python3]: https://formulae.brew.sh/formula/python#default
+[Node.js]: https://formulae.brew.sh/formula/node#default
+[PHP71/PHP71xdebug]: https://formulae.brew.sh/formula/php@7.1#default
+[composer]: https://formulae.brew.sh/formula/composer#default
+[Zsh]: https://formulae.brew.sh/formula/zsh#default
+[unrar]: https://formulae.brew.sh/formula/unrar#default
+[dockutil]: https://formulae.brew.sh/formula/dockutil#default
+[htop]: https://formulae.brew.sh/formula/htop#default
+[iftop]: https://formulae.brew.sh/formula/iftop#default
+[tig]: https://formulae.brew.sh/formula/tig#default
+[httpie]: https://formulae.brew.sh/formula/httpie#default
+[nmap]: https://formulae.brew.sh/formula/nmap#default
+[thefuck]: https://formulae.brew.sh/formula/thefuck#default
+[yarn]: https://formulae.brew.sh/formula/yarn#default
+[webkit2png]: https://formulae.brew.sh/formula/webkit2png#default
+[sqlmap]: https://formulae.brew.sh/formula/sqlmap#default
+[tree]: https://formulae.brew.sh/formula/tree#default
+[1password]: https://formulae.brew.sh/cask/1password
+[alfred]: https://formulae.brew.sh/cask/alfred
+[keka]: https://formulae.brew.sh/cask/keka
+[firefox]: https://formulae.brew.sh/cask/firefox
+[iterm2]: https://formulae.brew.sh/cask/iterm2
+[sublime-text]: https://formulae.brew.sh/cask/sublime-text
+[atom]: https://formulae.brew.sh/cask/atom
+[squelpro]: https://formulae.brew.sh/cask/squelpro
+[cyberduck]: https://formulae.brew.sh/cask/cyberduck
+[filezilla]: https://formulae.brew.sh/cask/filezilla
+[spotify]: https://formulae.brew.sh/cask/spotify
 
 Tools:
 
