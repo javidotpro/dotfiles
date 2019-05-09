@@ -46,7 +46,7 @@ macOS tools:
 [Node.js]: https://formulae.brew.sh/formula/node#default
 [PHP71/PHP71xdebug]: https://formulae.brew.sh/formula/php@7.1#default
 [composer]: https://formulae.brew.sh/formula/composer#default
-[Zsh]: https://formulae.brew.sh/formula/zsh#default
+[Zsh/zsh-completions]: https://formulae.brew.sh/formula/zsh#default
 [unrar]: https://formulae.brew.sh/formula/unrar#default
 [dockutil]: https://formulae.brew.sh/formula/dockutil#default
 [htop]: https://formulae.brew.sh/formula/htop#default
